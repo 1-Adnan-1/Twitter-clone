@@ -32,5 +32,3 @@ Bu proje, React ile geliştirilen bir Twitter klonudur.
 ## Ekran Görüntüleri (Login & Home)
 
 ![Login Page GIF](public/login.gif)
-
-![Home Page GIF]()
