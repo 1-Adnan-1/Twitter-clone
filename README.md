@@ -30,6 +30,8 @@ Bu proje, React ile geliştirilen bir Twitter klonudur.
 - Kullanıcılar, **oturum kapatma** seçeneği ile uygulamadan çıkış yapabilirler.
 
 ## Ekran Görüntüleri (Login & Home)
+![login](https://github.com/user-attachments/assets/320db564-29c6-41d6-a5d5-92ca64b9b119)![login](https://github.com/user-attachments/assets/3e15501f-8a6a-4d6e-b04a-ccda109dc0a9)
+
+![home](https://github.com/user-attachments/assets/656704e1-80d2-43a7-a357-0772ddaa94e6)
 
 
-# Twitter-clone
